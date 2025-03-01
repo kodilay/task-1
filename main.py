@@ -1,4 +1,4 @@
-print("Kodlamaio")
+print("Hesap")
 baslik = "Taşıt Kredisi"
 print(baslik)
 
